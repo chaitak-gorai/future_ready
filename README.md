@@ -5,6 +5,9 @@
 ## IDE:
 VS code
 
+## Industry
+Ed-Tech
+
 ## Project Title:
 Portfolio Website for Developers
 
