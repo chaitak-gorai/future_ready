@@ -22,4 +22,10 @@ https://black-meadow-093cc1810.1.azurestaticapps.net
 
 ## Demo Image of Azure services
 
-![azure](https://user-images.githubusercontent.com/77141674/182036092-ef36d9ab-d9fa-411d-bc86-c2091321f124.jpeg)
+
+![zure](https://user-images.githubusercontent.com/77141674/182036589-0b695c1f-8165-460f-a98f-cda0ee2e1372.png)
+
+## Demo project image
+
+![image](https://user-images.githubusercontent.com/77141674/182036652-e9afb4fd-c224-4a48-8b40-163bdcebdf60.png)
+
